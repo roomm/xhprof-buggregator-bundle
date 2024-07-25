@@ -1,5 +1,5 @@
 {
-  "name": "iluckhack/xhprof-buggregator-bundle",
+  "name": "iluckhack/xhprof-buggregator-bundle-5",
   "description": "Xhprof buggregator integration for Symfony Framework",
   "keywords": [
     "iluckhack",
@@ -7,7 +7,7 @@
     "buggregator",
     "xhprof"
   ],
-  "homepage": "https://github.com/iluckhack/xhprof-buggregator-bundle",
+  "homepage": "https://github.com/roomm/xhprof-buggregator-bundle",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
